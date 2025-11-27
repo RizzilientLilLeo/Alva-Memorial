@@ -125,7 +125,7 @@ The tool is built with Python 3.x and follows modern software development practi
 **Technology Stack:**
 - Python 3.10+
 - PIL/Pillow (Image manipulation)
-- PySteg (Steganography algorithms)
+- Stegano (Steganography algorithms)
 - svgwrite (SVG generation and modification)
 - NumPy (Numerical operations for pixel manipulation)
 
@@ -411,7 +411,6 @@ geoip2>=4.7.0
 pytest>=7.4.0
 pytest-cov>=4.1.0
 pytest-asyncio>=0.21.0
-httpx>=0.25.0
 
 # Development
 black>=23.0.0
