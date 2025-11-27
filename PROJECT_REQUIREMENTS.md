@@ -110,7 +110,7 @@ requests==2.26.0
 **Assignee**: Copilot
 
 #### Requirements
-- Configure instructions for this repository per [Best Practices for Copilot Coding Agent](https://gh.io/copilot-coding-agent-tips)
+- Configure instructions for this repository per [Best Practices for Copilot Coding Agent](https://docs.github.com/en/copilot/customizing-copilot/customizing-the-behavior-of-github-copilot)
 
 #### Acceptance Criteria
 - [ ] `.github/copilot-instructions.md` created
